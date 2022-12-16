@@ -3,7 +3,8 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Random;
 import java.util.concurrent.Semaphore;
-
+//new line as a commit
+//one more line for a commit (you are greate!)
 class Main {
 //control line for git
     public static String getRandom(String[] potion) {
